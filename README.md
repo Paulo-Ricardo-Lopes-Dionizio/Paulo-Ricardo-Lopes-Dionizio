@@ -1,6 +1,6 @@
 # <div align="center">成功 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Paul;I'm+20+years+old;I+am+from+Pirajuí-SP/Brazil;I+studying+Science+Computer+;Be+Welcome!+:%29;Olá,+Meu+nome+é+Paulo;Eu+Tenho+20+anos;Sou+de+Pirajuí-SP/Brasil;Eu+Estudo+Ciência+da+Computação+;Seja+Bem-vindo!)](https://git.io/typing-svg) 平和</div> 
 
-- I have a bachelor's degree in Computer Science(3º Year)
+- I'm studying a bachelor's degree in computer science(3º Year)
  
 📚 Studying :
 
