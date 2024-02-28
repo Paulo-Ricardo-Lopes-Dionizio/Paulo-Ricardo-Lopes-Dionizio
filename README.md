@@ -19,7 +19,7 @@
    3D Modeling Tool
    
  
-<a src="https://www.blender.org/"><img align="center" src="https://img.shields.io/badge/-Blender-000000?style=for-the-badge&logo=blender&logoColor=#000000&labelColor=282828"><a/> 
+<a href="https://www.blender.org/"><img align="center" src="https://img.shields.io/badge/-Blender-000000?style=for-the-badge&logo=blender&logoColor=#000000&labelColor=282828"><a/> 
 ### 👨‍💻 Programming Languages
 
 <a src=""><img align="center" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=#000000&labelColor=282828"><a/>
@@ -29,24 +29,28 @@
 <a src=""><img align="center" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=#000000&labelColor=282828"><a/>
 
 ### 💻 Software/Operational system and Tools
-                                                                                 
+                                                                           
 
 <a src=""><img align="center" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=#000000&labelColor=282828"><a/>
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricardo-Lopes-Dionizio&layout=compact&langs_count=7&theme=chartreuse-dark"/>                                                              
+<div align="center">
+ <h2>Git Status</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricardo-Lopes-Dionizio&layout=compact&langs_count=7&theme=chartreuse-dark"/>                                                              
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricardo-Lopes-Dionizio&show_icons=true&theme=algolia" />              
 <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia" />    
+</div>
+
 
  
-
+<div align="center">
 <h2>Contact Me !
 </h2>
 <a href="https://www.linkedin.com/in/paulo-ricardo-lopes-dionizio-25bbb31a8/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-005eff?style=for-the-badge&logo=linkedin&logoColor=#red&labelColor=005eff"</a>
-<a src="mailto:paulorld22@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/> 
- <div align="center">
+<a href="mailto:paulorld22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/> 
+ 
 <br><p align="centre"><b>Visitors Count/ Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Ricardo-Lopes-Dionizio}/count.svg" /></p> 
 <br></div>
