@@ -12,9 +12,9 @@
 
   Video and image editing tools
   
-<a src="https://www.adobe.com/en/products/aftereffects/campaign/pricing.html?gclid=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB:G:s&s_kwcid=AL!3085!3!459941984069!e!!g!!after%20effects!188195862!10039608942&gad_source=1"><img align="center" src="https://img.shields.io/badge/-After Effects-000000?style=for-the-badge&logo=adobe&logoColor=#000000&labelColor=282828"><a/>
-<a src="https://store.steampowered.com/app/1840/Source_Filmmaker/"><img align="center" src="https://img.shields.io/badge/-Source Filmmaker-000000?style=for-the-badge&logo=steam&logoColor=#000000&labelColor=282828"><a/>
-<a src="https://www.vegascreativesoftware.com/br/vegas-pro/?AffiliateID=182&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB%3AG%3As&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB&phash=FVTtmkBQis54t29K"><img align="center" src="https://img.shields.io/badge/-Sony Vegas Pro-000000?style=for-the-badge&logo=vegas&logoColor=#000000&labelColor=282828"><a/> 
+<a href="https://www.adobe.com/en/products/aftereffects/campaign/pricing.html?gclid=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB:G:s&s_kwcid=AL!3085!3!459941984069!e!!g!!after%20effects!188195862!10039608942&gad_source=1"><img align="center" src="https://img.shields.io/badge/-After Effects-000000?style=for-the-badge&logo=adobe&logoColor=#000000&labelColor=282828"><a/>
+<a href="https://store.steampowered.com/app/1840/Source_Filmmaker/"><img align="center" src="https://img.shields.io/badge/-Source Filmmaker-000000?style=for-the-badge&logo=steam&logoColor=#000000&labelColor=282828"><a/>
+<a href="https://www.vegascreativesoftware.com/br/vegas-pro/?AffiliateID=182&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB%3AG%3As&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB&phash=FVTtmkBQis54t29K"><img align="center" src="https://img.shields.io/badge/-Sony Vegas Pro-000000?style=for-the-badge&logo=vegas&logoColor=#000000&labelColor=282828"><a/> 
  
    3D Modeling Tool
    
