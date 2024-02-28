@@ -34,17 +34,19 @@
 <a src=""><img align="center" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=#000000&labelColor=282828"><a/>
-<table align="center" border:none>
- <td align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricardo-Lopes-Dionizio&layout=compact&langs_count=7&theme=chartreuse-dark"/>
- </td>
- <td align="center">                                                                     
-<img src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricardo-Lopes-Dionizio&show_icons=true&theme=algolia" />              
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia" />    
- </td>
+
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricardo-Lopes-Dionizio&layout=compact&langs_count=7&theme=chartreuse-dark"/>                                                              
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricardo-Lopes-Dionizio&show_icons=true&theme=algolia" />              
+<img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia" />    
+
  
-</table>
+
 <h2>Contact Me !
 </h2>
-<a src="https://www.linkedin.com/in/paulo-ricardo-lopes-dionizio-25bbb31a8/"><img align="center" src="https://img.shields.io/badge/-Linkedin-005eff?style=for-the-badge&logo=linkedin&logoColor=#red&labelColor=005eff"><a/>
-<a src="mailto:paulorld22@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/>  
+<a href="https://www.linkedin.com/in/paulo-ricardo-lopes-dionizio-25bbb31a8/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-005eff?style=for-the-badge&logo=linkedin&logoColor=#red&labelColor=005eff"</a>
+<a src="mailto:paulorld22@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/> 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count/ Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
