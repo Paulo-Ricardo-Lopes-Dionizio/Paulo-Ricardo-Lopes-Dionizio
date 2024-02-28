@@ -48,5 +48,5 @@
 <a src="mailto:paulorld22@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/> 
  <div align="center">
 <br><p align="centre"><b>Visitors Count/ Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Ricardo-Lopes-Dionizio}/count.svg" /></p> 
 <br></div>
