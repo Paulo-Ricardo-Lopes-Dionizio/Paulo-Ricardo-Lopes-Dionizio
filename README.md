@@ -14,12 +14,12 @@
   
 <a href="https://www.adobe.com/en/products/aftereffects/campaign/pricing.html?gclid=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T8RpRKjRx66CsNa_KKsY1KVNRj53zdtz1JaZ-gA6qqoh0HvEP7ct_oaArAZEALw_wcB:G:s&s_kwcid=AL!3085!3!459941984069!e!!g!!after%20effects!188195862!10039608942&gad_source=1"><img align="center" src="https://img.shields.io/badge/-After Effects-000000?style=for-the-badge&logo=adobe&logoColor=#000000&labelColor=282828"><a/>
 <a href="https://store.steampowered.com/app/1840/Source_Filmmaker/"><img align="center" src="https://img.shields.io/badge/-Source Filmmaker-000000?style=for-the-badge&logo=steam&logoColor=#000000&labelColor=282828"><a/>
-<a href="https://www.vegascreativesoftware.com/br/vegas-pro/?AffiliateID=182&ef_id=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB%3AG%3As&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T9xhVuTWCXoXhL9Ay20Dx2G9l9lL1olxYkPCL_gunAxxnWfbvepY7QaAghQEALw_wcB&phash=FVTtmkBQis54t29K"><img align="center" src="https://img.shields.io/badge/-Sony Vegas Pro-000000?style=for-the-badge&logo=vegas&logoColor=#000000&labelColor=282828"><a/> 
+<a src=""><img align="center" src="https://img.shields.io/badge/-Sony Vegas Pro-000000?style=for-the-badge&logo=vegas&logoColor=#000000&labelColor=282828"><a/> 
  
-   3D Modeling Tool
+  3D Modeling Tool
    
- 
 <a href="https://www.blender.org/"><img align="center" src="https://img.shields.io/badge/-Blender-000000?style=for-the-badge&logo=blender&logoColor=#000000&labelColor=282828"><a/> 
+
 ### 👨‍💻 Programming Languages
 
 <a src=""><img align="center" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=#000000&labelColor=282828"><a/>
@@ -30,11 +30,9 @@
 
 ### 💻 Software/Operational system and Tools
                                                                            
-
 <a src=""><img align="center" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=#000000&labelColor=282828"><a/>
-
 
 <div align="center">
  <h2>Git Status</h2>
@@ -42,8 +40,6 @@
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricardo-Lopes-Dionizio&show_icons=true&theme=algolia" />              
 <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia" />    
 </div>
-
-
  
 <div align="center">
 <h2>Contact Me !
