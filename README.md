@@ -24,7 +24,6 @@
 
 <a src=""><img align="center" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=#000000&labelColor=282828"><a/>
-<a src=""><img align="center" src="https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=css3&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=#000000&labelColor=282828"><a/>
 
