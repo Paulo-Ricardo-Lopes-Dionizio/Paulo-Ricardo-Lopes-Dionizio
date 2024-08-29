@@ -31,7 +31,6 @@
                                                                            
 <a src=""><img align="center" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=#000000&labelColor=282828"><a/>
-<a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=#000000&labelColor=282828"><a/>
 
 <div align="center">
  <h2>Git Status</h2>
