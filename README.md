@@ -20,12 +20,15 @@
    
 <a href="https://www.blender.org/"><img align="center" src="https://img.shields.io/badge/-Blender-000000?style=for-the-badge&logo=blender&logoColor=#000000&labelColor=282828"><a/> 
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages & Tools
 
-<a src=""><img align="center" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=#000000&labelColor=282828"><a/>
+<a src=""><img align="center" src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=dotnet&logoColor=#000000&labelColor=282828"></a>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=#000000&labelColor=282828"><a/>
+
+<a src=""><img align="center" src="https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=#000000&labelColor=282828"><a/>
+
 
 ### 💻 Software/Operational system and Tools
                                                                            
