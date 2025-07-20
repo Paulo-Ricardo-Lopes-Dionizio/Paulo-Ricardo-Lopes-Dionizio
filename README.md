@@ -48,6 +48,5 @@
 <a href="https://www.linkedin.com/in/paulo-ricardo-lopes-dionizio-25bbb31a8/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-005eff?style=for-the-badge&logo=linkedin&logoColor=#red&labelColor=005eff"</a>
 <a href="mailto:paulorld22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#red&labelColor=282828"><a/> 
  
-<br><p align="centre"><b>Visitors Count/ Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Ricardo-Lopes-Dionizio}/count.svg" /></p> 
+
 <br></div>
