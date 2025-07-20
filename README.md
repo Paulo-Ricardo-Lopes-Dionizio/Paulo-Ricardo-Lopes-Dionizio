@@ -26,14 +26,17 @@
 <a src=""><img align="center" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=#000000&labelColor=282828"><a/>
-
 <a src=""><img align="center" src="https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=#000000&labelColor=282828"><a/>
+<a src=""><img align="center" src="https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css&logoColor=#000000&labelColor=282828"><a/>
+<a src=""><img align="center" src="https://img.shields.io/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=#000000&labelColor=282828"><a/>
 
 
 ### 💻 Software/Operational system and Tools
                                                                            
 <a src=""><img align="center" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=#000000&labelColor=282828"><a/>
 <a src=""><img align="center" src="https://img.shields.io/badge/-Visual Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=#000000&labelColor=282828"><a/>
+<a src=""><img align="center" src="https://img.shields.io/badge/-NetBeans-000000?style=for-the-badge&logo=net-beans&logoColor=#000000&labelColor=282828"><a/>
+
 
 <div align="center">
  <h2>Git Status</h2>
