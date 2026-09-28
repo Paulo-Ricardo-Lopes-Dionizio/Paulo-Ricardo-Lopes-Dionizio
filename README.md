@@ -39,10 +39,20 @@
 
 
 <div align="center">
- <h2>Git Status</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricardo-Lopes-Dionizio&layout=compact&langs_count=7&theme=chartreuse-dark"/>                                                              
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricardo-Lopes-Dionizio&show_icons=true&theme=algolia" />              
-<img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia" />    
+<div align="center">
+
+<h2>📊 GitHub Status</h2>
+
+
+
+<br>
+
+<img
+  height="170"
+  src="https://streak-stats.demolab.com/?user=Paulo-Ricardo-Lopes-Dionizio&theme=algolia"
+/>
+
+</div> 
 </div>
  
 <div align="center">
@@ -53,3 +63,13 @@
  
 
 <br></div>
+
+<div align="center">
+
+## 👁️ Profile Visitors
+
+<img
+  src="https://komarev.com/ghpvc/?username=Paulo-Ricardo-Lopes-Dionizio&label=Profile%20Views&color=008000&style=for-the-badge"
+/>
+
+</div>
